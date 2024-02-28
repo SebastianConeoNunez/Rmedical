@@ -1,8 +1,8 @@
-package com.curso.Curso.controllers;
+package com.medical.Medical.controllers;
 
-import com.curso.Curso.dao.UsuarioDao;
-import com.curso.Curso.models.Users;
-import com.curso.Curso.utils.JWTUtil;
+import com.medical.Medical.dao.UsuarioDao;
+import com.medical.Medical.models.Users;
+import com.medical.Medical.utils.JWTUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

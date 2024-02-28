@@ -1,4 +1,4 @@
-package com.curso.Curso;
+package com.medical.Medical;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

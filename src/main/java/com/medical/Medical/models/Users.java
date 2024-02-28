@@ -1,4 +1,4 @@
-package com.curso.Curso.models;
+package com.medical.Medical.models;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.curso.Curso.utils;
+package com.medical.Medical.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtBuilder;

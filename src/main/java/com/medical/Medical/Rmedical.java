@@ -1,13 +1,13 @@
-package com.curso.Curso;
+package com.medical.Medical;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CursoApplication {
+public class Rmedical {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CursoApplication.class, args);
+		SpringApplication.run(Rmedical.class, args);
 	}
 
 }

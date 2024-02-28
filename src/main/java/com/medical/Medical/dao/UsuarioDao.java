@@ -1,6 +1,6 @@
-package com.curso.Curso.dao;
+package com.medical.Medical.dao;
 
-import com.curso.Curso.models.Users;
+import com.medical.Medical.models.Users;
 
 import java.util.List;
 

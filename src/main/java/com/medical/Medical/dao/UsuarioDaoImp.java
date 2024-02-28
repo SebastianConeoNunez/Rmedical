@@ -1,6 +1,6 @@
-package com.curso.Curso.dao;
+package com.medical.Medical.dao;
 
-import com.curso.Curso.models.Users;
+import com.medical.Medical.models.Users;
 import de.mkammerer.argon2.Argon2;
 import de.mkammerer.argon2.Argon2Factory;
 import org.springframework.stereotype.Repository;

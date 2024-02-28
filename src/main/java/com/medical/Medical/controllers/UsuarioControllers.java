@@ -1,8 +1,8 @@
-package com.curso.Curso.controllers;
+package com.medical.Medical.controllers;
 
-import com.curso.Curso.dao.UsuarioDao;
-import com.curso.Curso.models.Users;
-import com.curso.Curso.utils.JWTUtil;
+import com.medical.Medical.dao.UsuarioDao;
+import com.medical.Medical.models.Users;
+import com.medical.Medical.utils.JWTUtil;
 import de.mkammerer.argon2.Argon2;
 import de.mkammerer.argon2.Argon2Factory;
 import org.springframework.beans.factory.annotation.Autowired;
